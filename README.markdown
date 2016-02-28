@@ -1,5 +1,13 @@
-The Kiibohd Controller
-======================
+ecloud's custom Ergodox layout - fork of The Kiibohd Controller
+===============================================================
+
+The layout looks like this:
+
+![Image](build/layout.png?raw=true)
+
+build/build.sh will build the firmware files for both halves, and rename the flash scripts too.
+
+The rest of kiibohd's README follows below.
 
 This is the main Kiibohd Firmware.
 In general, this should be the **only** git repo you need to clone.
